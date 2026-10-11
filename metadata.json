@@ -1,0 +1,6 @@
+{
+  "name": "PlacePrep AI - Student Placement Preparation Platform",
+  "description": "Comprehensive AI-powered placement preparation platform featuring practice tests, DSA coding arena with 6-stage AI hints, SQL practice, Core CS flashcards, ATS resume builder, mock interview scheduler, and 0-100 placement readiness scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
